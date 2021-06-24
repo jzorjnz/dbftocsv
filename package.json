@@ -1,0 +1,20 @@
+{
+  "name": "dbftocsv",
+  "version": "1.0.0",
+  "description": "DBF to CSV Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "run": "node index.js"
+  },
+  "keywords": [
+    "dbf",
+    "csv",
+    "converter"
+  ],
+  "author": "Syed Zeeshan Akhtar",
+  "license": "MIT",
+  "dependencies": {
+    "parsedbf": "^1.1.1"
+  }
+}
